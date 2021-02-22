@@ -1,0 +1,26 @@
+{
+  "name": "student-database",
+  "version": "0.0.2",
+  "description": "Student database for class",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTJ-ltd-Josh/student-database.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "angular.js",
+    "sqlite"
+  ],
+  "author": "Josh Holloway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LTJ-ltd-Josh/student-database/issues"
+  },
+  "homepage": "https://github.com/LTJ-ltd-Josh/student-database#readme"
+}
